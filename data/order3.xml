@@ -13,4 +13,14 @@
         <sauce type="ketchup"/>
         <instructions>Please add peanut butter!</instructions>
     </burger>
+    <burger>
+        <patty type="vege"/>
+        <cheeses top="aged" bottom="american"/>
+        <topping type="lettuce"/>
+        <topping type="tomato"/>
+        <topping type="salsa"/>
+        <sauce type="ketchup"/>
+        <sauce type="mayo"/>
+        <sauce type="mustard"/>
+    </burger>
 </order>
